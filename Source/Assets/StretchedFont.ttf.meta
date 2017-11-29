@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6ad9a84a583aaad4d9895adcaccf5aa2
+timeCreated: 1508709006
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gyparody
+  fontNames:
+  - Gyparody
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
